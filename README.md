@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-## About me
-I am a curious person passionate about technology and the environment. I thrive in multidisciplinary and multicultural teams, which fosters my creativity and allows me to approach problems with a broad and innovative perspective.
-
 ## Technologies
 ![Lenguajes en mis repositorios](languages1.svg)
 
