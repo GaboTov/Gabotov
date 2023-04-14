@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Lenguajes en mis repositorios](languages1.svg)
-##About me
+## About me
 I am a curious individual with a passion for technology and the
 environment. I thrive in multidisciplinary and multicultural teams, as
 they provide a unique perspective of the world and enhance my
