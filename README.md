@@ -2,7 +2,7 @@
 
 <!--
 **GaboTov/Gabotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Lenguajes en mis repositorios](languages(5).svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
