@@ -1,11 +1,7 @@
 ### Hi there 👋
 ![Lenguajes en mis repositorios](languages1.svg)
 ## About me
-I am a curious individual with a passion for technology and the
-environment. I thrive in multidisciplinary and multicultural teams, as
-they provide a unique perspective of the world and enhance my
-creativity. This helps me to approach problems and challenges with a
-broader perspective and creativity.
+I am a curious person passionate about technology and the environment. I thrive in multidisciplinary and multicultural teams, which fosters my creativity and allows me to approach problems with a broad and innovative perspective.
 <!--
 **GaboTov/Gabotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Lenguajes en mis repositorios](languages(5).svg)
