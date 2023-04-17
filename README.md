@@ -11,7 +11,7 @@ I contributed to a web application rating the sustainability of establishments. 
 
 ## Technologies
 ![Lenguajes en mis repositorios](languages(31).svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabotov)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 About Me:
 
