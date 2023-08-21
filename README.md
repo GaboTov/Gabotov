@@ -10,7 +10,7 @@ As a full-stack developer, I've worked on web applications aimed at environmenta
 I contributed to a web application rating the sustainability of establishments. My work involved designing the rating algorithm, developing APIs for data management, implementing Stripe API for payments, and automating UI averages display. Technologies used include React, Django, and PostgreSQL.
 
 ## Technologies
-![Lenguajes en mis repositorios](languages(31).svg)
+![Lenguajes en mis repositorios](languages.svg)
 
 ## 🌍 About Me:
 
